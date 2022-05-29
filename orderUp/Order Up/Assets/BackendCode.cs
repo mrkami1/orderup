@@ -8,6 +8,7 @@ public class BackendCode : MonoBehaviour
 {
 
     public TextMeshProUGUI statusText;
+    public GameObject orderCanvas;
 
     // Start is called before the first frame update
     void Start()
@@ -26,7 +27,16 @@ public class BackendCode : MonoBehaviour
     }
 
     public void OnPointerUp() {
-        statusText.text = "";
+        statusText.text = "Processing your order...";
+        StartCoroutine(delay(2.34f));
     }
     
+    IEnumerator delay(float time) {
+        yield return new WaitForSeconds(time);
+
+        orderCanvas.SetActive(true);
+        gameObject.SetActive(false);
+        statusText.text = "";
+    }
+
 }
