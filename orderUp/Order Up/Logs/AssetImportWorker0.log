@@ -1,0 +1,121 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/programmerpc/Documents/projects/orderup/orderUp/Order Up
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62478
+Successfully changed project path to: /Users/programmerpc/Documents/projects/orderup/orderUp/Order Up
+/Users/programmerpc/Documents/projects/orderup/orderUp/Order Up
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 27.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/programmerpc/Documents/projects/orderup/orderUp/Order Up/Assets
+GfxDevice: creating device client; threaded=0
+2022-05-28 23:28:20.596 Unity[35874:437241] (null) preferred device: Apple M1 Pro (high power)
+2022-05-28 23:28:20.596 Unity[35874:437241] Metal devices available: 1
+2022-05-28 23:28:20.596 Unity[35874:437241] 0: Apple M1 Pro (high power)
+2022-05-28 23:28:20.597 Unity[35874:437241] Using device Apple M1 Pro (high power)
+Initializing Metal device caps: Apple M1 Pro
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56874
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000658 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 29.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.542 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001107 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.353 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1400 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.6 MB.
+System memory in use after: 133.0 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 1822.
+Total: 2.005958 ms (FindLiveObjects: 0.233916 ms CreateObjectMapping: 0.039375 ms MarkObjects: 1.408792 ms  DeleteObjects: 0.322458 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/BackendCode.cs
+  artifactKey: Guid(61d7de9b8524344d9bd20a0de80800ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BackendCode.cs using Guid(61d7de9b8524344d9bd20a0de80800ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df880f1f1abfd8f08ce7202b7313c2c6') in 0.181288 seconds
+  Import took 0.183287 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002014 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.149 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 137.8 MB.
+System memory in use after: 137.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1825.
+Total: 1.575542 ms (FindLiveObjects: 0.087416 ms CreateObjectMapping: 0.026292 ms MarkObjects: 1.200667 ms  DeleteObjects: 0.260333 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 520.255547 seconds.
+  path: Assets/BackendCode.cs
+  artifactKey: Guid(61d7de9b8524344d9bd20a0de80800ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BackendCode.cs using Guid(61d7de9b8524344d9bd20a0de80800ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3560da32042b08ec66c3095dcc66d697') in 0.005928 seconds
+  Import took 0.007533 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001961 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.135 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.0 MB.
+System memory in use after: 137.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1828.
+Total: 1.619834 ms (FindLiveObjects: 0.116875 ms CreateObjectMapping: 0.028750 ms MarkObjects: 1.198625 ms  DeleteObjects: 0.274709 ms)
+
