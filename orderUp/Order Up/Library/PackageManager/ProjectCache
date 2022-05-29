@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637893876277898474
-    m_Hash: 2583795662
+      ticks: 637893968803377598
+    m_Hash: 4084016498
   m_LockFileStatus:
     m_FilePath: C:/Users/mashhood/Desktop/Git repos/orderup/orderUp/Order Up/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637893876541744409
-    m_Hash: 4259589839
+      ticks: 637893968803382597
+    m_Hash: 3322616664
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
